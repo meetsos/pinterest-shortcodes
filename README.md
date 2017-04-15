@@ -4,8 +4,10 @@ This WordPress Plugin adds two pinterest shortcode buttons (one for pins and ano
 Click here to download it!
 https://arkolakis.gr/wp_plugins/pinterest-shortcodes.zip
 
+
 A screenshot of the Visual Editor with the buttons
 ![alt tag](https://arkolakis.gr/goods/elements/2015/11/pinbuttons.png)
+
 
 Example of pin shortcode
 <pre>[pinterest]https://www.pinterest.com/pin/537265430523513109/[/pinterest]</pre>
