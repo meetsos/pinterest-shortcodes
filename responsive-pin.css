@@ -1,0 +1,13 @@
+/* CSS SOURCE: http://dojo.codenorris.com/k/PinterestHacks/board.html */
+.pinterestBoardWrapper {
+  width: 100%;
+  margin: auto;
+}
+.pinterestBoard {
+  margin: auto;
+  text-align: center;
+}
+.pinterestBoard span {
+  overflow: hidden;
+  max-width: 100%!important;
+}
