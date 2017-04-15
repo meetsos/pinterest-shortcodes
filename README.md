@@ -8,7 +8,7 @@ A screenshot of the Visual Editor with the buttons
 <pre>https://arkolakis.gr/goods/elements/2015/11/pinbuttons.png</pre>
 
 Example of pin shortcode
-<pre>[pinterest]https://www.pinterest.com/pin/537265430523513109[/pinterest]</pre>
+<pre>[pinterest]https://www.pinterest.com/pin/537265430523513109/[/pinterest]</pre>
 
 Example of responsive board shortcode
 <pre>[pinboard_src="https://www.pinterest.com/lefkadarooms/beaches-in-lefkada/" scaleheight="600" scalewidth="150"]</pre>
